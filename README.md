@@ -17,7 +17,7 @@ por TerminalFix.
 
 ## Uso
 
-1. Descargar `TerminalFix-Windows-Cleaner.bat`
+1. Descargar `Windows-Cleaner.bat`
 2. Ejecutar como administrador
 3. Seleccionar la opción deseada
 
