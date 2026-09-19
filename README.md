@@ -1,35 +1,41 @@
 # TerminalFix Windows Cleaner
 
-Herramienta de mantenimiento y limpieza para Windows desarrollada
-por TerminalFix.
+A Windows maintenance and cleanup tool developed by TerminalFix.
 
-## Características
+**🇺🇸 English | 🇦🇷 [Español](README.es.md)**
 
-- Limpieza de archivos temporales
-- Limpieza de Windows Update
-- Limpieza de cachés
-- Limpieza DNS
-- Vaciado de papelera
-- Limpieza de componentes mediante DISM
-- Modo de limpieza completa
-- Detección de permisos de administrador
-- Medición del espacio liberado
+## Features
 
-## Uso
+* Temporary file cleanup
+* Windows Update cache cleanup
+* Browser cache cleanup
+* DNS cache cleanup
+* Recycle Bin cleanup
+* Windows component cleanup using DISM
+* Full cleanup mode
+* Administrator privilege detection
+* Free disk space measurement
 
-1. Descargar `Windows-Cleaner.bat`
-2. Ejecutar como administrador
-3. Seleccionar la opción deseada
+## Usage
 
-## Compatibilidad
+1. Download `Windows-Cleaner.bat`
+2. Run it as administrator
+3. Select the desired option
 
-Windows 7
-Windows 8
-Windows 8.1
-Windows 10
-Windows 11
+## Compatibility
 
-## Objetivo
+* Windows 7
+* Windows 8
+* Windows 8.1
+* Windows 10
+* Windows 11
 
-Facilitar tareas de mantenimiento en equipos Windows,
-especialmente en equipos con recursos limitados.
+> Some features may behave differently depending on the Windows version.
+
+## Purpose
+
+Designed to simplify Windows maintenance tasks, especially on systems with limited hardware resources.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
