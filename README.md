@@ -37,10 +37,8 @@ El programa incluye las siguientes funciones:
 
 Esta edición está diseñada exclusivamente para:
 
-* Windows 7 x86.
-* Windows 7 x64.
-* Windows 7 sin Service Pack 1.
-* Windows 7 con Service Pack 1.
+* Windows 7.
+
 
 El programa detecta la versión del sistema operativo antes de continuar.
 
