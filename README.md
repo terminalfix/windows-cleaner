@@ -312,8 +312,3 @@ Herramientas y proyectos orientados al mantenimiento, administración y soporte 
 ---
 
 **TerminalFix Windows Cleaner v1.1.0**
-
-
----
-
-**TerminalFix Windows Cleaner v1.0**
